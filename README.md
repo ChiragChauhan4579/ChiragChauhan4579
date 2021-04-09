@@ -1,4 +1,4 @@
-## Hello it's Chirag 👋
+#                                                                        Hello it's Chirag 👋
 
 - 🌱 I’m currently learning about deep learning with specific interest in computer vision.
 - 💬 Ask me about ML,DL.  
