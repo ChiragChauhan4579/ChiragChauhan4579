@@ -7,4 +7,4 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ChiragChauhan4579&theme=radical)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragChauhan4579&repo=Computer-Vision-using-OpenCV&theme=radical)](https://github.com/ChiragChauhan4579/Computer-Vision-using-OpenCV)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragChauhan4579&repo=Recommender-Systems-using-ML&theme=radical)](https://github.com/ChiragChauhan4579/Recommender-Systems-using-ML)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragChauhan4579&repo=Recommender-System-using-ML&theme=radical)](https://github.com/ChiragChauhan4579/Recommender-System-using-ML)
