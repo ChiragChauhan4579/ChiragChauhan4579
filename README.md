@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <<img src="https://giphy.com/gifs/coxQHKASG60HrHtvkt" width="300">>
 # Hello it's Chirag 👋
 
 - 🌱 I’m currently learning about deep learning with specific interest in computer vision.
