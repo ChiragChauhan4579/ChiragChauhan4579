@@ -6,3 +6,4 @@
 - 📫 How to reach me: chiragchauhan1030@gmail.com
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ChiragChauhan4579&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisvillegas&theme=synthwave “Andres’ Top Languages Card”)
