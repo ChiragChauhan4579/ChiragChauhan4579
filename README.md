@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning about deep learning with specific interest in computer vision.
 - 💬 Ask me about ML,DL.  
 - 📫 How to reach me: chiragchauhan1030@gmail.com
-
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/chirag-chauhan-9a220a195/"/>
                                                                
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ChiragChauhan4579&theme=radical)
 
