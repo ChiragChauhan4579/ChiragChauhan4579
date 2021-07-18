@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning about deep learning with specific interest in computer vision.
 - 💬 Ask me about ML,DL.  
 - 📫 How to reach me: chiragchauhan1030@gmail.com
-- 
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/chirag-chauhan-9a220a195/)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/chirag-chauhan-9a220a195/)
   
 Skilled in:
 
