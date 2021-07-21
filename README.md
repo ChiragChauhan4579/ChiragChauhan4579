@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">      <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" height="215" width="300"></p>
 <p align="center">Hello it's <strong>Chirag</strong> 👋</p>
-
+<p align="center">
 - 🌱 I’m currently learning about deep learning with specific interest in computer vision.
 - 💬 Ask me about ML,DL.  
 - 📫 How to reach me: chiragchauhan1030@gmail.com
@@ -16,5 +16,4 @@ Skilled in:
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ChiragChauhan4579&theme=radical)
-
-
+</p>
