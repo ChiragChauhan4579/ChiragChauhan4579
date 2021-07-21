@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">      <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" height="215" width="300"></p>
 <p align="center">Hello it's <strong>Chirag</strong> 👋</p>
 
-<p align="center">A self-taught ML/DL engineer with a special interest in working towards vision problems. Experienced in creating predictive regression and classification models, use object-oriented programming to write custom neural networks, layers, loss functions.
+<p align="left">A self-taught ML/DL engineer with a special interest in working towards vision problems. Experienced in creating predictive regression and classification models, use object-oriented programming to write custom neural networks, layers, loss functions.
 
 Good knowledge of python frameworks like Tensorflow and Django.
 
