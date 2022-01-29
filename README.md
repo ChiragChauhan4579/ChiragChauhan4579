@@ -13,8 +13,6 @@ Familiarity with HTML,CSS,JavaScript,flask,bootstrap.</p>
 - 💬 Ask me about ML,DL.  
 - 📫 How to reach me: chiragchauhan1030@gmail.com
 
-![](https://komarev.com/ghpvc/?username=ChiragChauhan4579&color=blue)
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/chirag-chauhan-9a220a195/)
   
 Skilled in:
