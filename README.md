@@ -3,8 +3,8 @@
 
 <p align="left">
 A self-taught ML/DL engineer with a special interest in working towards vision problems. Experienced in creating predictive regression and classification models, use object-oriented programming to write custom neural networks, layers, loss functions.
-Good knowledge of python frameworks like Tensorflow and Django.
-
+Good knowledge of python frameworks like Tensorflow and Django. Currently incresing my skills in cloud, DevOps, mlops and SOTA algorithms.
+  
 Database: SQL(MySQL/POSTGRES), NoSQL(MongoDB)
 
 Familiarity with HTML,CSS,JavaScript,flask,bootstrap.</p>
