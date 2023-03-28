@@ -2,7 +2,7 @@
 <p align="center">Hello it's <strong>Chirag</strong> 👋</p>
 
 <p align="left">
-I am Chirag Chauhan and I am currently in the pre-final year of my bachelors. I am enthusiastically learning about Data related stuff and have grasped a good knowledge of machine learning and deep learning. Have a high personal interest in working towards computer-vision problems. Experienced in creating predictive regression and classification models, use object-oriented programming to write custom architecture of neural networks, layers, and loss functions, making an end-to-end ml application. Good knowledge of python frameworks like Tensorflow and Django. Currently increasing my skills in cloud, DevOps, mlops and SOTA algorithms.
+I am Chirag Chauhan and I am currently in the final year of my bachelors. I am enthusiastically learning about Data related stuff and have grasped a good knowledge of machine learning and deep learning. Have a high personal interest in working towards computer-vision problems. Experienced in creating predictive regression and classification models, use object-oriented programming to write custom architecture of neural networks, layers, and loss functions, making an end-to-end ml application. Good knowledge of python frameworks like Tensorflow and Django. Currently increasing my skills in cloud, DevOps, mlops and SOTA algorithms.
 
 Familiarity with HTML,CSS,JavaScript,flask,bootstrap.</p>
 
